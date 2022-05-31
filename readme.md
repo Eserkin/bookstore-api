@@ -15,7 +15,7 @@ define("DB_DATABASE_NAME", "bookstore");
 3- In your browser visit followings URLS  
 
 Get list of available books
-http://localhost/index.php/index.php/book/list?limit=20
+http://localhost/index.php/book/list?limit=20
 
 Get details from a particular book
-http://localhost/index.php/index.php/book/detail/1
+http://localhost/index.php/book/detail/1
